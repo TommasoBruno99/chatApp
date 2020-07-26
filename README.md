@@ -95,8 +95,6 @@ Alessandro Buonerba [@Dieman_](https://twitter.com/Dieman_) - a.buonerba@hotmail
 
 Tommaso Bruno [@Tommy__of](https://twitter.com/Tommy__of) - bruno.tommaso31@gmail.com
 
-Project Link: [https://github.com/Dieman89/chatApp](https://github.com/Dieman89/chatApp)
-
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [contributors-shield]: https://img.shields.io/github/contributors/Dieman89/chatApp.svg?style=flat-square
