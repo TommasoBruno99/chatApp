@@ -104,9 +104,9 @@ Tommaso Bruno [@Tommy__of](https://twitter.com/Tommy__of) - bruno.tommaso31@gmai
 [stars-shield]: https://img.shields.io/github/stars/Dieman89/chatApp.svg?style=flat-square
 [stars-url]: https://github.com/Dieman89/chatApp/stargazers
 [issues-shield]: https://img.shields.io/github/issues/Dieman89/chatApp.svg?style=flat-square
-[issues-url]: https://github.com/Dieman89/chatApp/issues
+[issues-url]: https://github.com/TommasoBruno99/server-centralised-chat/issues
 [license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=flat-square
 [license-url]: https://github.com/Dieman89/chatApp/blob/master/LICENSE
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/buonerba
+[linkedin-url]: https://www.linkedin.com/in/tommasobruno99/
 [screenshot]: images/screenshot.png
